@@ -2,3 +2,5 @@ https://howtodoinjava.com/spring-cloud/spring-cloud-service-discovery-netflix-eu
 
 https://howtodoinjava.com/spring-boot2/send-email-with-attachment/{for email confirmation in spring boot}{Application,EmailConfig,EmailService}
 how to do in java  microservices(hystrix circuit breaker,zuul Api gateway
+https://www.edureka.co/blog/docker-commands/(docker commands)
+docker tool commands
