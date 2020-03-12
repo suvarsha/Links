@@ -10,3 +10,5 @@ bcdedit /set hypervisorlaunchtype off(command to enable virtualisation)
 https://www.tutorialspoint.com/docker/docker_images.htm(docker commands)(remove  sudo)
 uploading files (https://www.javatpoint.com/angular-spring-file-upload-example)
 https://howtodoinjava.com/library/readingwriting-excel-files-in-java-poi-tutorial/(execel files reading and writing
+https://jenkins.io/download/
+https://www.tutorialspoint.com/jenkins/index.htm
