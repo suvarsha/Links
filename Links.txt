@@ -1,6 +1,8 @@
 https://howtodoinjava.com/spring-cloud/spring-cloud-service-discovery-netflix-eureka/{for eureka spring micro services}
 https://howtodoinjava.com/sort/sort-arraylist-objects-comparable-comparator/
 https://howtodoinjava.com/java-arraylist/
+https://howtodoinjava.com/java/collections/arraylist/arraylist-listiterator/
+https://www.geeksforgeeks.org/arraylist-retainall-method-in-java/
 https://howtodoinjava.com/spring-boot2/send-email-with-attachment/{for email confirmation in spring boot}{Application,EmailConfig,EmailService}
 how to do in java  microservices(hystrix circuit breaker,zuul Api gateway
 https://www.edureka.co/blog/docker-commands/(docker commands)
