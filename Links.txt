@@ -4,6 +4,7 @@ https://howtodoinjava.com/java-arraylist/
 https://howtodoinjava.com/java/collections/arraylist/arraylist-listiterator/
 https://www.geeksforgeeks.org/arraylist-retainall-method-in-java/
 https://www.geeksforgeeks.org/linked-list-in-java/
+https://www.javatpoint.com/how-to-iterate-map-in-java(map iteration)
 https://howtodoinjava.com/spring-boot2/send-email-with-attachment/{for email confirmation in spring boot}{Application,EmailConfig,EmailService}
 how to do in java  microservices(hystrix circuit breaker,zuul Api gateway
 https://www.edureka.co/blog/docker-commands/(docker commands)
